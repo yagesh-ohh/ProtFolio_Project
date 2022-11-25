@@ -222,6 +222,7 @@ img {
 .home {
   height: calc(100vh - 3rem);
   row-gap: 1rem;
+  padding: 10px;
 }
 
 .home_data {
