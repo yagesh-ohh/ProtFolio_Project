@@ -1,4 +1,8 @@
-/* Google Font - Poppines */
+/**
+ * Google Font - Poppines
+ *
+ * @format
+ */
 
 @import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
 
@@ -222,7 +226,6 @@ img {
 .home {
   height: calc(100vh - 3rem);
   row-gap: 1rem;
-  padding: 10px;
 }
 
 .home_data {
@@ -363,6 +366,9 @@ img {
 
 .skill_javascript {
   width: 80%;
+}
+.skill_angular {
+  width: 60%;
 }
 
 /*---------------------------------             WORK SECTION  START  ----------------------*/
